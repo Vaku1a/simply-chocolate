@@ -1,0 +1,155 @@
+/* Common Styles */
+body {
+    font-family: Montserrat, sans-serif;
+}
+
+/* Reset */
+ul,
+ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: currentColor;
+}
+
+button {
+    font-family: inherit;
+    cursor: pointer;
+}
+
+/**
+  |============================
+  | Header Styles
+  |============================
+*/
+
+.header {}
+
+.header-nav {}
+
+.header-logo {
+    color: #111;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 1.11;
+    letter-spacing: -0.03em;
+}
+
+.header-logo-italic {
+    font-style: italic;
+}
+
+.header-img {}
+
+.header-list {}
+
+.header-item {}
+
+.header-link {
+    color: #111;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.14;
+    letter-spacing: -0.02em;
+}
+
+.header-networks {}
+
+.header-networks-item {}
+
+.header-networks-link {}
+
+
+/**
+  |============================
+  | Hero Styles
+  |============================
+*/
+.section {}
+
+.hero {
+    background-color: antiquewhite;
+}
+
+.hero-title {
+    color: #FFF;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 1.21;
+    letter-spacing: -0.03em;
+}
+
+.hero-btn {
+    color: #FFF;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.21;
+
+    border-radius: 100px;
+    background-color: #FD9222;
+}
+
+.hero-link {}
+
+
+/**
+  |============================
+  | Benefits Style
+  |============================
+*/
+.section {}
+
+.benefits {}
+
+.benefits-title {}
+
+.benefits-list {}
+
+.benefits-item {}
+
+.benefits-img {}
+
+.benefits-text {}
+
+/**
+  |============================
+  | How it's maid Section
+  |============================
+*/
+.section {}
+
+.made {}
+
+.made-title {}
+
+.made-img {}
+
+.made-list {}
+
+.made-list-item {}
+
+
+/**
+  |============================
+  | Reviews Section
+  |============================
+*/
+.section {}
+
+.reviews {}
+
+.reviews-title {}
+
+.reviews-list {}
+
+.reviews-item {}
+
+.reviews-img {}
+
+.reviews-item-title {}
+
+.reviews-item-text {}
+
+.reviews-btn {}
